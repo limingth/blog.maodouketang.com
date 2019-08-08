@@ -15,7 +15,7 @@ Embed PDF file powered by View.js
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#' | relative_url }}{{ '/assets/2019/pdf-sample-file.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/pdf-sample-file.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
