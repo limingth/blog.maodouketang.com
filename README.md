@@ -57,7 +57,7 @@ Others:
 1. [Example from ahxxm.github.io](https://github.com/ahxxm/ahxxm.github.io/blob/master/_posts/2016-09-06-slide-en.md)
 1. [Jekyll: Create Slides with reveal.js](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/)
 1. [markdown → slides (reveal.js) → gh-pages (jekyll)](https://github.com/ungoldman/jekyll-reveal)
-1. [A Jekyll-based framework for creating presentations based on Reveal.js and markdown.](https://github.com/dploeger/jekyll-revealjs)
+1. [A Jekyll-based framework for creating presentations based on Reveal.js and markdown.](https://github.com/dploeger/jekyll-revealjs) ([example](http://dploeger.github.io/jekyll-revealjs/example/))
 
 ## Resources
 
