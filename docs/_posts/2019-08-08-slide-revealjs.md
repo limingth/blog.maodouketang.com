@@ -6,7 +6,7 @@ theme: league
 transition: fade
 categories: slide
 tags:
-  - ahxxm
+  - reveal.js
 ---
 <!-- markdownlint-disable MD033 -->
 
