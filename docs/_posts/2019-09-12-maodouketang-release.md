@@ -1,9 +1,8 @@
 ---
 title: "毛豆课堂版本"
-description: 毛豆课堂版本规划
-layout: blog
-tags:
-  - pdf
+date: 2019-09-12T15:34:30-04:00
+categories:
+  - blog
 ---
 
 ## 毛豆课堂版本
