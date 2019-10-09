@@ -65,7 +65,7 @@ author:
   avatar : "https://avatars3.githubusercontent.com/u/9906677?s=200&v=4"
   bio    : "毛豆网成立于2014年6月，隶属于北京毛豆教育咨询有限公司。"
   links:
-    - label: "Website"
+    - label: "毛豆官网"
       icon: "fas fa-fw fa-link"
       url: "https://maodou.io/"
     - label: "GitHub"
@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "毛豆官网"
       icon: "fas fa-fw fa-link"
       url: "https://maodou.io/"
     - label: "GitHub"
