@@ -3,7 +3,11 @@ title: "毛豆课堂发布版本"
 date: 2019-09-12T15:34:30-04:00
 categories:
   - blog
+tags:
   - release
+  - version
+header:
+  teaser: https://yosemitessl.cdn.maodou.io/about/group-img3.jpg
 ---
 
 ## 毛豆课堂发布版本
