@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于我们"
 ---
 
 ![image](https://yosemitessl.cdn.maodou.io/about/group-img3.jpg)
